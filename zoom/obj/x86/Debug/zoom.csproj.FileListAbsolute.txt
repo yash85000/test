@@ -1,0 +1,7 @@
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\obj\x86\Debug\zoom.Form1.resources
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\obj\x86\Debug\zoom.Properties.Resources.resources
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\obj\x86\Debug\zoom.csproj.GenerateResource.Cache
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\bin\Debug\zoom.exe
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\bin\Debug\zoom.pdb
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\obj\x86\Debug\zoom.exe
+D:\YASHWANTH FINAL CODES\FINAL SOURCE CODES\zoom\zoom\obj\x86\Debug\zoom.pdb
